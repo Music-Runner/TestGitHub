@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/alex/Desktop/Music/01%20The%20Eye%20Of%20The%20Storm.mp3</location>
+			<title>The Eye Of The Storm</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>1</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>80226</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/02%20Immortalized.mp3</location>
+			<title>Immortalized</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>2</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>257963</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/03%20The%20Vengeful%20One.mp3</location>
+			<title>The Vengeful One</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>3</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>252085</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/04%20Open%20Your%20Eyes.mp3</location>
+			<title>Open Your Eyes</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>4</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>235968</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/05%20The%20Light.mp3</location>
+			<title>The Light</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>5</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>255612</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/06%20What%20Are%20You%20Waiting%20For.mp3</location>
+			<title>What Are You Waiting For</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>6</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>243857</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/07%20You%27re%20Mine.mp3</location>
+			<title>You&#39;re Mine</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>7</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>294743</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/08%20Who.mp3</location>
+			<title>Who</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>8</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>285234</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/09%20Save%20Our%20Last%20Goodbye.mp3</location>
+			<title>Save Our Last Goodbye</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>9</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>303912</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/10%20Fire%20It%20Up.mp3</location>
+			<title>Fire It Up</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>10</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>245999</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/11%20The%20Sound%20Of%20Silence.mp3</location>
+			<title>The Sound Of Silence</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>11</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>246495</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/12%20Never%20Wrong.mp3</location>
+			<title>Never Wrong</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>12</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>212640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/13%20Who%20Taught%20You%20How%20To%20Hate.mp3</location>
+			<title>Who Taught You How To Hate</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>13</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>296781</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/14%20Tyrant%20%28Bonus%20Track%29.mp3</location>
+			<title>Tyrant (Bonus Track)</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>14</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>226774</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/15%20Legion%20Of%20Monsters%20%28Bonus%20Track%29.mp3</location>
+			<title>Legion Of Monsters (Bonus Track)</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>15</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>273951</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/16%20The%20Brave%20And%20The%20Bold%20%28Bonus%20Track%29.mp3</location>
+			<title>The Brave And The Bold (Bonus Track)</title>
+			<creator>Disturbed</creator>
+			<album>Immortalized</album>
+			<trackNum>16</trackNum>
+			<annotation>sn3h1t87</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Disturbed/Immortalized/art.jpg</image>
+			<duration>273167</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/271e72b32482ea48.mpga</location>
+			<duration>216581</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Apocalyptica%20-%20I%20Don%27t%20Care%2C%20Adam%20Gontier%20%20%28audiopoisk.com%29.mp3</location>
+			<title>I Don&#39;t Care - Apocalyptica, Adam Gontier</title>
+			<creator>Apocalyptica</creator>
+			<album>Worlds Collide</album>
+			<trackNum>8</trackNum>
+			<annotation>Deluxe two disc (CD + PAL/Region 0 DVD) version of the 2007 album from the Finnish Metal cellists featuring two bonus audio tracks (&#39;Ural&#39; and &#39;Dreamer&#39;) plus a bonus DVD that features the video for the first single &#39;I&#39;m Not Jesus&#39;, a &#39;making of the video&#39; documentary and an interview with the band. Features originals plus a cover of David Bowie&#39;s &#39;Helden&#39; (&#39;Heroes&#39; sung in German) performed with Rammstein&#39;s Till Linderman on vocals. Also features other guest vocalists including Corey Taylor, Dave Lombardo ( Slayer ), Tomoyasu Hotei (superstar Japanese composer, whose credits include the Kill Bill soundtrack ), Cristina Scabbia (Lacuna Coil) and Adam Gontier (3 Days Grace). 13 tracks including the first single &#39;I&#39;m Not Jesus&#39;. Sony/BMG.</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Apocalyptica/Worlds%20Collide/art</image>
+			<duration>238762</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Apocalyptica%20-%20Slow%20Burn%20%28Audio%29.mp3</location>
+			<duration>284186</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Boris%20Soltariiski%20%26%20Slavi%20Trifonov%20-%20Vreme%20za%20gluposti%20%28CDRIP%29.mp3</location>
+			<duration>225071</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Disturbed%20-%20Land%20Of%20Confusion%20%20%20%20%20%20%5BTorrent-Tatty%5D.MP3</location>
+			<title>Land Of Confusion</title>
+			<creator>Disturbed</creator>
+			<image>file:///home/alex/.cache/vlc/art/arturl/f455a29036af5be9af3c89482fc689bf/art</image>
+			<duration>286986</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Disturbed%20-%20Living%20After%20Midnight%20%28192%20%20kbps%29.mp3</location>
+			<duration>265943</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Disturbed-down%20with%20the%20sickness.mp3</location>
+			<duration>282384</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Ich%20Tu%20Dir%20Weh.mp3</location>
+			<title>Ich Tu Dir Weh</title>
+			<creator>Rammstein</creator>
+			<album>Liebe Ist Fur Alle Da</album>
+			<trackNum>2</trackNum>
+			<annotation>-=Titan=-</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Rammstein/Liebe%20Ist%20Fur%20Alle%20Da/art</image>
+			<duration>301926</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/LOST%20IN%20THE%20ECHO%20%28Official%20Lyric%20Video%29%20-%20Linkin%20Park%20%28256%20%20kbps%29.mp3</location>
+			<duration>204957</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Linkin%20Park%20-%2008%20In%20the%20End.mp3</location>
+			<title>In the End</title>
+			<creator>Linkin Park</creator>
+			<album>Hybrid Theory</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Linkin%20Park/Hybrid%20Theory/art</image>
+			<duration>216085</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Linkin%20Park%20-%20Castle%20of%20Glass.mp3</location>
+			<duration>203494</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Linkin-Park-The-Catalyst.mp3</location>
+			<title>The Catalyst</title>
+			<creator>Linkin Park</creator>
+			<album>A Thousand Suns</album>
+			<trackNum>1</trackNum>
+			<annotation>DJ Freakiii Represent... #theneptunes, Rizon &amp; www.theneptunes.org</annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Linkin%20Park/A%20Thousand%20Suns/art.png</image>
+			<duration>230744</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Metallica%20-%20Seek%20And%20Destroy.mp3</location>
+			<title>Seek and Destroy</title>
+			<creator>MetallicA</creator>
+			<album>Kill &#39;Em All</album>
+			<trackNum>9</trackNum>
+			<annotation>Ripped By ZeUs  DS 1997</annotation>
+			<image>http://coverartarchive.org/release/de867181-0543-3925-a03b-d18f78dd7ceb/front-500</image>
+			<duration>415041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Rammstein%20-%20Benzin.mp3</location>
+			<annotation>                              </annotation>
+			<duration>211129</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Rammstein%20-%20Stripped.mp3</location>
+			<annotation>                              </annotation>
+			<duration>235083</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet%20-%20Burn%20It%20Down%20%5BOfficial%20Audio%5D.mp3</location>
+			<duration>196910</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet%20-%20Famous%20%5BOfficial%20Audio%5D.mp3</location>
+			<duration>199235</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet%20-%20Feel%20Invincible%20%5BOfficial%20Music%20Video%5D.mp3</location>
+			<duration>227421</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet%20-%20Hero%20%28Official%20Video%29%20%28192%20%20kbps%29.mp3</location>
+			<duration>195941</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet%20-%20I%20Want%20To%20Live%20%5BOfficial%20Audio%5D.mp3</location>
+			<duration>207542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet%20-%20Lions%20%5BOfficial%20Audio%5D.mp3</location>
+			<duration>205113</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet%20-%20Out%20Of%20Hell%20%5BOfficial%20Audio%5D.mp3</location>
+			<duration>215510</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet%20-%20Saviors%20of%20the%20World%20%5BOfficial%20Audio%5D.mp3</location>
+			<duration>226977</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet%20-%20The%20Resistance%20%5BOfficial%20Audio%5D.mp3</location>
+			<duration>232594</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet%20-%20Undefeated%20%5BOfficial%20Audio%5D.mp3</location>
+			<duration>216058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet%20-%20Watching%20For%20Comets%20%5BOfficial%20Audio%5D.mp3</location>
+			<duration>209449</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet%20-Awake%20And%20Alive%20%28mp3goo.com%29.mp3</location>
+			<duration>207725</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet%20-Back%20From%20The%20Dead%20Official%20Audio.mp3</location>
+			<duration>214778</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet%2B-%2BMonster.mp3</location>
+			<title>Monster</title>
+			<creator>Skillet</creator>
+			<album>Awake</album>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Skillet/Awake/art</image>
+			<duration>178161</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Skillet_-_Not_Gonna_Die.mp3</location>
+			<title>Not Gonna Die</title>
+			<creator>Skillet</creator>
+			<album>TEGOS.RU</album>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Skillet/TEGOS.RU/art</image>
+			<duration>225340</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Tornado%20-%20Ochite%20Ti%20Govoriat.mp3</location>
+			<title>Ochite Ti Govoriat</title>
+			<creator>Tornado</creator>
+			<image>file:///home/alex/.cache/vlc/art/arturl/eb8524dc9b24aa15aa4aed21c4900a52/art</image>
+			<duration>162459</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Tornado%20-%20Ostani.mp3</location>
+			<title>Ostani</title>
+			<creator>Tornado</creator>
+			<image>file:///home/alex/.cache/vlc/art/arturl/1be91e0cefe623d2ad2347ffea430d86/art</image>
+			<duration>338135</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Tornado%20-%20Otnachalo.mp3</location>
+			<title>Otnachalo</title>
+			<creator>Tornado</creator>
+			<image>file:///home/alex/.cache/vlc/art/arturl/537cfe02d028950b1919a87acb93d43f/art</image>
+			<duration>230403</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Tornado_Izguben.mp3</location>
+			<annotation>                              </annotation>
+			<duration>206923</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Tornado_Skapana_Darzhava.mp3</location>
+			<title>Skapana Darzhava</title>
+			<creator>Tornado</creator>
+			<image>file:///home/alex/.cache/vlc/art/arturl/f778d2af13f11da8366b75460301d83e/art</image>
+			<duration>183486</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Tornado_Svoboden.mp3</location>
+			<title>Svoboden</title>
+			<creator>Tornado</creator>
+			<image>file:///home/alex/.cache/vlc/art/arturl/4b2ae6572c287008b567ac10c5423772/art</image>
+			<duration>227856</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/Tornado_Vyarvam.mp3</location>
+			<title>Spasen</title>
+			<creator>Tornado</creator>
+			<image>file:///home/alex/.cache/vlc/art/arturl/412028c63ef0e6e493cc8b7e54b715eb/art</image>
+			<duration>247927</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/What%20I%26%23039%3Bve%20Done%20%28Official%20Video%29%20-%20Linkin%20Park%20%28192%20%20kbps%29.mp3</location>
+			<duration>206941</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/XjH7NTvVVa.mp3</location>
+			<title>In the End</title>
+			<creator>Black Veil Brides</creator>
+			<album>Wretched and Divine: The Story of the Wild Ones</album>
+			<trackNum>18</trackNum>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Black%20Veil%20Brides/Wretched%20and%20Divine_%20The%20Story%20of%20the%20Wild%20Ones/art</image>
+			<duration>227810</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/apocalyptica-cold-blood.mp3</location>
+			<duration>207908</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/apocalyptica-house-of-chains.mp3</location>
+			<duration>208561</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/new%20divide.mp3</location>
+			<title>New Divide</title>
+			<creator>Linkin Park</creator>
+			<album>New Divide</album>
+			<annotation>                            </annotation>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Linkin%20Park/New%20Divide/art.jpg</image>
+			<duration>268964</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/alex/Desktop/Music/rammstein%20mein%20herz%20brennt.mp3</location>
+			<title>Mein Herz Brennt</title>
+			<creator>Ramstein</creator>
+			<album>Mutter</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/alex/.cache/vlc/art/artistalbum/Ramstein/Mutter/art</image>
+			<duration>279933</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+			<vlc:item tid="57"/>
+			<vlc:item tid="58"/>
+	</extension>
+</playlist>

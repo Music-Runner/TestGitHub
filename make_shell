@@ -1,0 +1,1 @@
+cat the.best.filtered.xspf| grep location | sed 's/<location>//g' | sed 's/<\/location>//g' | sed 's/	//g' | sed 's/file:\/\/\/home\/alex/wget localhost:8081/g'
